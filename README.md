@@ -1,4 +1,4 @@
-\# Blocking Email Attachment Downloads Using Group Policy
+\# Browser Download Control Using Group Policy
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-This project demonstrates how to prevent users from downloading email attachments using \*\*Group Policy\*\* in a Windows domain environment.
+This project demonstrates how to prevent users from downloading file downloads from web browsers (including email attachments) using \*\*Group Policy\*\* in a Windows domain environment.
 
 
 
